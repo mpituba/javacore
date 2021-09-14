@@ -1,2 +1,2 @@
 # javacore
-Revisão de Java
+Revisão de Java baseado no conteúdo do DevDojo Martona Java.
